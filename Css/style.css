@@ -1,0 +1,117 @@
+body{
+  background-color: #e6eff6;
+}
+.main{
+  width: 890px;
+  height: 610px;
+  background-color: lightgreen;
+  margin: 90px auto;
+  border-radius: 55px;
+
+}
+
+.box1{
+width: 800px;
+height: 230px;
+background-color: white;
+padding: 30px 45px;
+/* border-radius: */
+border-top: 35px;
+
+}
+
+.box2{
+  color:white;
+  margin-top: 0;
+  width:360px;
+  height: 300px;
+  float: left;
+  background-color: #2bb3b1;
+  padding: 20px 45px 0 40px;
+}
+
+.box3{
+  color:white;
+  margin-top: 0;
+  width:360px;
+  height: 300px;
+  background-color: #4abebd;
+  float: right;
+  padding: 20px 45px 0 40px;
+}
+.Toptext{
+  color: #6dcac5;
+}
+.text2{
+  color: hsl(71, 73%, 54%);
+}
+.text3{
+  color: darkgray;
+  font-size: 16px;
+}
+ul{
+    list-style: none;
+}
+
+p{
+  line-height: 4px;
+}
+h1{
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+}
+h2 h3 h5{
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+.sub{
+  display: inline-block;
+  width: 80px;
+}
+.sub1{
+  display: inline-block;
+  width: 80px;
+  color:gray;
+}
+
+/* h6{
+  font-size: 25px;
+  font-family: 'Karla', sans-serif;
+
+} */
+
+.btn{
+   background: #3DF649;
+   background-image: -webkit-linear-gradient(top, #3DF649, #88D01E);
+   background-image: -moz-linear-gradient(top, #3DF649, #88D01E);
+   background-image: -ms-linear-gradient(top, #3DF649, #88D01E);
+   background-image: -o-linear-gradient(top, #3DF649, #88D01E);
+   background-image: -webkit-gradient(to bottom, #3DF649, #88D01E);
+   -webkit-border-radius: 11px;
+   -moz-border-radius: 11px;
+   border-radius: 11px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Georgia;
+   width: 199px;
+   font-size: 15px;
+   font-weight: 300;
+   padding: 27px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #99C624 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btncov{
+  position: absolute;
+  right: 800px;
+  top: 620px;
+}
